@@ -1,0 +1,12 @@
+
+.checkboxbtn {
+  width: 40px;
+  height: 40px;
+  background-color:#fff;
+  border: 1px solid black;
+
+}
+
+.active-checkbox {
+  background-color: purple;
+}
